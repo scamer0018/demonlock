@@ -1,0 +1,13 @@
+{
+  "name": "forcejoinbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "fs-extra": "^11.2.0",
+    "telegraf": "^4.16.3"
+  }
+}
